@@ -2,7 +2,7 @@
 
 ## ***\* This landing page is for educational purposes only \*\***
 
-## 🚀URL🚀 : https://concept-for-cryptocurrency-company.vercel.app/
+## 🚀URL🚀 : [https://coinbase-mockup.vercel.app/](https://coinbase-mockup.vercel.app/)
 
 ### 👨🏼‍💻 Developed by: [Nalin Nagar](https://github.com/NNDEV1)
 
